@@ -2,8 +2,8 @@
     <h1>Projects</h1>
     <article>
         <header>
-            <h1>Adobe Systems</h1>
-            <span><address>Noida, India</address><time>May 2016 to July 2016</time></span>
+            <h1>Automatic summarization of functions</h1>
+            <span><address>Undergraduate Project under Prof. Subhajit Roy</address><time>Aug 2016 - Current</time></span>
         </header>
         <p><ul style="list-style-type:disc">
              <!--  <li>Implemented a client based query auto completion feature.</li>
@@ -11,19 +11,22 @@
               <li>Designed and implemented data structures for distributed storing of the n-gram model consuming minimal space</li>
               <li>Designed and implemented algorithms to download only the required data for current input (not the whole model) to quickly compute the suggestions in real time and display the top few suggestions having the highest relevance score</li>
               <li>Added support for previous words suggestions, spell corrections, search history, synonyms, stop words etc.</li> -->
-              My project was to implement a search query autocompletion feature for a website hosted on a static server. I used NLP techniques to build the feature. The main challenge was to make faster predictions by minimizing the size of data downloaded from the server. We designed and implemented a structure to distribute the model into various files based on words. The client side application was designed to download a minimal set of files to make predictions for a given query. Heuristics like predicting a word till the required files are downloaded improved the user-experience further.
-
+              I am working on an LLVM module which can automatically summarize functions of a program with respect to a specific instruction (for example free(ptr)). The summaries contain the information of just the path which is required for the execution of the given instruction in terms of parameters of the function and global variables. We are currently verifying the output of the module on various Coreutils programs.
 
         </ul></p>
     </article>
     <article>
         <header>
-            <h1>MAQ Software</h1>
-            <span><address>Hyderabad, India</address><time>May 2015 to July 2015</time></span>
+            <h1>Group File Sharing Application</h1>
+            <span><address>Course Project in Software Engineering under Prof. TV Prabhakar</address><time>Aug 2016 - Current</time></span>
         </header>
         <p>
-              Worked in a team of six to develop an app for Microsoft excel which would help thousands of sellers in easily uploading and updating targets for sales persons for current fiscal year. The app loads data for a selected Business Metric and geography of the seller into an excel sheet where a user (based on his permissions) can either view the entries, update them or add new entries for sellers and set their targets. 
-              </p>
+        I along with Devashish Yadav implemented an application using Flask which enables a group of people to share files among themselves. The application is based on peer to peer protocol where each client connected to the group is responsible for sending and receiving files and other important information such as active and inactive clients, shared file lists etc.
+        <br>
+        <a href="https://github.com/souravan/groupshare">Github</a>
+        <a href="static/doc/cs455projectreport.pdf">Report</a>
+        <a href="static/doc/CS455pres.pdf">Presentation</a>
+        </p>
     </article>
     <!-- <article>
         <header>
