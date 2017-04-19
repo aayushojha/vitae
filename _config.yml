@@ -18,8 +18,8 @@ title: Aayush Ojha's Resume
 name: Aayush Ojha
 email: aayushoj@cse.iitk.ac.in
 email_full: mailto:aayushoj@cse.iitk.ac.in
-website: http://home.iitk.ac.in/~aayushoj
-website_full: http://souravanand.com/
+website: Homepage
+website_full: http://home.iitk.ac.in/~aayushoj
 github: aayushojha
 #twitter: twitter
 #tel: +44 0000 000000
@@ -27,7 +27,7 @@ github: aayushojha
 google_maps: 'https://www.google.com/maps/place/Indian+Institute+of+Technology+Kanpur/'
 #address: IIT Kanpur
 postcode: IIT Kanpur
-city: Kanpur
+# city: Kanpur
 country: India
 # google_analytics: UA-69300817-1
 
