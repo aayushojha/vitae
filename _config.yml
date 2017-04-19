@@ -14,13 +14,13 @@ author: Fábio Madeira
 # biomadeira.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
 baseurl: /
-title: Sourav Anand's Resume
-name: Sourav Anand
-email: mail@souravanand.com
-email_full: mailto:mail@souravanand.com
-website: souravanand.com
+title: Aayush Ojha's Resume
+name: Aayush Ojha
+email: aayushoj@cse.iitk.ac.in
+email_full: mailto:aayushoj@cse.iitk.ac.in
+website: http://home.iitk.ac.in/~aayushoj
 website_full: http://souravanand.com/
-github: souravan
+github: aayushojha
 #twitter: twitter
 #tel: +44 0000 000000
 #tel_full: tel:+440000000000
@@ -29,7 +29,7 @@ google_maps: 'https://www.google.com/maps/place/Indian+Institute+of+Technology+K
 postcode: IIT Kanpur
 city: Kanpur
 country: India
-google_analytics: UA-69300817-1
+# google_analytics: UA-69300817-1
 
 # needed for travis-ci build
 exclude: [vendor]
